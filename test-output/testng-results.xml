@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[My name is Sudeer]]>
+    </line>
+    <line>
+      <![CDATA[Automation trainer]]>
+    </line>
+    <line>
+      <![CDATA[Selenium WebDriver]]>
+    </line>
+    <line>
+      <![CDATA[Test2 method]]>
+    </line>
+    <line>
+      <![CDATA[Test2 method]]>
+    </line>
+    <line>
+      <![CDATA[Test2 method]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2019-07-30T03:01:25Z" finished-at="2019-07-30T03:01:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2019-07-30T03:01:25Z" finished-at="2019-07-30T03:01:25Z">
+      <class name="com.scripts.S29_TestNGDemo">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.scripts.S29_TestNGDemo@4f933fd1]" name="test1" duration-ms="11" started-at="2019-07-30T08:31:25Z" finished-at="2019-07-30T08:31:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[My name is Sudeer]]>
+            </line>
+            <line>
+              <![CDATA[Automation trainer]]>
+            </line>
+            <line>
+              <![CDATA[Selenium WebDriver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.scripts.S29_TestNGDemo@4f933fd1]" name="test2" duration-ms="1" started-at="2019-07-30T08:31:25Z" finished-at="2019-07-30T08:31:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test2 method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.scripts.S29_TestNGDemo@4f933fd1]" name="test2" duration-ms="2" started-at="2019-07-30T08:31:25Z" finished-at="2019-07-30T08:31:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test2 method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.scripts.S29_TestNGDemo@4f933fd1]" name="test2" duration-ms="2" started-at="2019-07-30T08:31:25Z" finished-at="2019-07-30T08:31:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test2 method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.scripts.S29_TestNGDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
